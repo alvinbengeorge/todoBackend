@@ -1,0 +1,14 @@
+{
+  "name": "todobackend",
+  "version": "1.0.0",
+  "description": "todo backend with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node build/index.js"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "alvin",
+  "license": "MIT"
+}
