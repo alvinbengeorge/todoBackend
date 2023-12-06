@@ -20,6 +20,7 @@ services:
     depends_on:
       - database
     command: npm start
+    env_file: .env
 
   database:
     image: postgres:13.2-alpine
